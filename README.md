@@ -1,2 +1,2 @@
 # SmartHomeIOT
-![alt text](project_claranet.jpg)
+![alt text](cost_design.jpg)
